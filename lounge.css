@@ -52,6 +52,7 @@ h2 {
   background-repeat: repeat-x;
 
   line-height: 1;
+  float: right;
 }
 
 #elixirs h2 {
@@ -91,13 +92,10 @@ h2 {
 }
 
 a:link {
-  color: green;
+  color: #007e7e;
 }
 
 a:visited {
-  color: red;
+  color: #333333;
 }
 
-a:hover {
-  color: yellow;
-}
